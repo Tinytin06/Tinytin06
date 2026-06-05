@@ -1,10 +1,13 @@
 ## Hi there 👋
-I'm Austin Carter Luu. A Washingtonian who is in the Cybersecurity Master's major and completed a Computer Science Major, looking for internship/job opportunities in the tech field. I'm currently working on a homelab with a network-attached storage as the server. I currently code in Python, JavaScript, and Java, but have fundamentals for any C-based or Object oriented based language. I have an education in AI, Cloud Computing, SDLC, Agile practices, CyberSecurity, and lower-level coding, but am really interested in how new technologies like AI and Cloud Computing will affect Cybersecurity. Reach out via Email at Aluu0610@gmail.com
+I'm Austin Carter Luu. A Washingtonian who is in the Cybersecurity Master's major and completed a Computer Science Major, looking for internship/job opportunities in the tech field. I'm currently working on a homelab with a network-attached storage as the server. I currently code in Python, JavaScript, and Java, but have a solid foundation in any C-based or object-oriented language. I have an education in AI, Cloud Computing, SDLC, Agile practices, CyberSecurity, and lower-level coding, but am really interested in how new technologies like AI and Cloud Computing will affect Cybersecurity. I am currently working on AI Fabrication detector of bug reports as part of my thesis project. Reach out via Email at Aluu0610@gmail.com
 
-Classes I am currently taking for my Masters Degree:
-Engineering malicious code using decompilers/Binary
-Faculty Research Seminar
-High Performance Computing
+Classes I have taken for my Master's Degree:
+Network security
+malware reverse engineering techniques
+cryptography
+software architecture
+secure software development techniques
+information assurance and cybersecurity
 <!--
 **Tinytin06/Tinytin06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
